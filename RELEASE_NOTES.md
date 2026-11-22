@@ -2,6 +2,12 @@
 
 New features, improvements and fixes in every version. The same notes are in Agilo: select **What's new** at the top of any Agilo page.
 
+## 2.2.3: Pick several squads on the dashboard
+
+_2026-11-22_
+
+- **Improved:** The Program dashboard's Squads picker takes one or more squads: every card, the burnup and forecast, cumulative flow and PI health show the squads you pick together. Pick none for the whole release train.
+
 ## 2.2.2: Traceability rules in Agilo settings
 
 _2026-11-22_
