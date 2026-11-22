@@ -2,6 +2,13 @@
 
 New features, improvements and fixes in every version. The same notes are in Agilo: select **What's new** at the top of any Agilo page.
 
+## 2.2.2: Traceability rules in Agilo settings
+
+_2026-11-22_
+
+- **Improved:** Traceability enforcement now lives in Project settings › Agilo settings › Traceability rules, next to the other settings: turn enforcement on or off, choose Strict or Permissive, and tick which work item types each type may contain. The separate Hierarchy rules page is gone; your saved rules are kept.
+- **Improved:** The traceability matrix is removed from the Traceability tab; coverage by type and test coverage stay.
+
 ## 2.2.1: Bug states in a chart of their own
 
 _2026-11-22_
