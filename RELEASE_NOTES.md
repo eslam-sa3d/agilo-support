@@ -2,6 +2,25 @@
 
 New features, improvements and fixes in every version. The same notes are in Agilo: select **What's new** at the top of any Agilo page.
 
+## 2.1.0: PI Planning, WSJF, flow metrics and a PI health check
+
+_2026-11-22_
+
+- **New:** Program dashboard opens with PI health: On track, At risk or Off track, the reasons behind it, this sprint at a glance, and how the last PI ended.
+- **New:** Data quality card: stories without story points, items outside every squad, orphan stories, missing dates and features without a release, each one click from the list.
+- **New:** PI review (PDF): a one-page report for business owners with progress, objectives, predictability by squad, releases, risks and data gaps.
+- **New:** Prioritise: score features or epics on business value, time criticality, risk reduction and job size; WSJF is computed, ranked and saved on the work item.
+- **New:** Portfolio Kanban: epics by state with WSJF, hypothesis and MVP progress from their features; drag an epic to change its state.
+- **New:** Flow: SAFe flow distribution, flow time, flow velocity and flow load for the PI.
+- **New:** Program board: features by squad and sprint with release milestones and late dependencies; drag a feature to replan it.
+- **New:** Confidence vote: everyone votes 1 to 5 for their squad at the end of PI Planning; averages show for squads and the train.
+- **New:** Planning Poker sessions: queue the PI's items and estimate them one after another, together, from Agilo Squads.
+- **New:** Traceability matrix shows each test case's last result from Test Plans and exports to Excel (CSV).
+- **New:** Releases record the RTE's go / no-go decision, and objective scores record who scored them and when.
+- **New:** A setup checklist shows what a project still needs, and every page has a Send feedback link.
+- **Improved:** Each screen now has one home: Program for the release train, PI Planning for the event, Squads for teams.
+- **Fixed:** Dates from Azure DevOps were read wrongly, so days in state, aging, bug age and cycle time showed NaN or 0. They are correct now, and Aging says No data when dates are missing.
+
 ## 2.0.12: Traceability matrix
 
 _2026-11-22_

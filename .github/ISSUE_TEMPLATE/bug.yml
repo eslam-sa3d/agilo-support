@@ -1,0 +1,33 @@
+name: Report a problem
+description: Something in Agilo doesn't work or shows wrong numbers
+labels: [bug]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Agilo version
+      description: Shown at the top right of any Agilo page, next to "What's new".
+      placeholder: "2.1.0"
+    validations:
+      required: true
+  - type: dropdown
+    id: host
+    attributes:
+      label: Azure DevOps
+      options: [Azure DevOps Services (cloud), Azure DevOps Server 2022.1, Other server version]
+    validations:
+      required: true
+  - type: input
+    id: screen
+    attributes:
+      label: Where
+      description: Hub and tab, for example Agilo Program › Dashboard.
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened, and what you expected
+      description: Add a screenshot if you can. Leave out names, work item titles and anything confidential.
+    validations:
+      required: true

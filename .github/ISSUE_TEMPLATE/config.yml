@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Release notes
+    url: https://github.com/eslam-sa3d/agilo-support/blob/main/RELEASE_NOTES.md
+    about: See what changed in each version.

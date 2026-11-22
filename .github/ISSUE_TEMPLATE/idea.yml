@@ -1,0 +1,20 @@
+name: Suggest an idea
+description: A feature or improvement you'd like in Agilo
+labels: [idea]
+body:
+  - type: input
+    id: role
+    attributes:
+      label: Your role
+      placeholder: Release Train Engineer, Product Manager, Scrum Master…
+  - type: textarea
+    id: problem
+    attributes:
+      label: What are you trying to do?
+      description: The job or decision, and what makes it hard today.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would help
