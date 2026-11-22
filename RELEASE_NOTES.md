@@ -2,6 +2,12 @@
 
 New features, improvements and fixes in every version. The same notes are in Agilo: select **What's new** at the top of any Agilo page.
 
+## 2.0.7: Cleaner capacity table
+
+_2026-11-22_
+
+- **Improved:** Capacity vs load: cells show the number only; the unit (SP) is in the card's description.
+
 ## 2.0.6: Planning Poker fix
 
 _2026-11-22_
