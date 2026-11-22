@@ -2,6 +2,13 @@
 
 New features, improvements and fixes in every version. The same notes are in Agilo: select **What's new** at the top of any Agilo page.
 
+## 2.2.1: Bug states in a chart of their own
+
+_2026-11-22_
+
+- **New:** Agilo settings › Bug statistics: set each bug state to Count, Show separately or Ignore. States shown separately, for example Deferred, get their own chart on the Program dashboard, by squad and severity with their age, and are left out of every other bug number.
+- **Improved:** The squad dashboard's Defects card says how many bugs sit in the separately shown states.
+
 ## 2.2.0: A dashboard you can shape: forecast, squad view, sections
 
 _2026-11-22_
