@@ -2,6 +2,17 @@
 
 New features, improvements and fixes in every version. The same notes are in Agilo: select **What's new** at the top of any Agilo page.
 
+## 2.0.11: Progress bars, chart tooltips and bug states to ignore
+
+_2026-11-22_
+
+- **Improved:** The backlog shows a progress bar for every item instead of days in state: done story points for epics and features, done tasks for stories.
+- **Fixed:** The backlog no longer shows "NaN d" for items without a state change date.
+- **New:** Project settings › Agilo › Bug statistics: choose bug states (for example Rejected or Duplicate) to leave out of every bug count and chart.
+- **New:** Hover any chart to see its values: burnup, cumulative flow, committed vs completed, velocity and the progress bars.
+- **New:** The PI burnup marks where each sprint starts, with the sprint's name.
+- **New:** Cumulative flow can switch between epics, features and user stories.
+
 ## 2.0.10: White text on blue buttons, compact Poker cards
 
 _2026-11-22_
