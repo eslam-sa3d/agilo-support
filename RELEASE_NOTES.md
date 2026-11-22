@@ -2,6 +2,21 @@
 
 New features, improvements and fixes in every version. The same notes are in Agilo: select **What's new** at the top of any Agilo page.
 
+## 2.2.0: A dashboard you can shape: forecast, squad view, sections
+
+_2026-11-22_
+
+- **New:** Forecast: the PI burnup projects the current pace to the PI's end, and a new tile says how much of the scope will be done by then.
+- **New:** Story points done is compared with the previous PI at the same point in its time.
+- **New:** Pick a squad at the top of the Program dashboard to see every card, the burnup, cumulative flow and PI health for that squad only.
+- **New:** Cards are grouped into Progress, Delivery risks and Quality, with links to jump to each and a fold for each section.
+- **New:** Customise: choose which cards show and their order. Your layout is saved for you only.
+- **New:** Stories done against the stories committed in the PI: a tile with the totals and a chart of committed vs done stories for every sprint.
+- **New:** Releases by iteration: when PIs sit under a release iteration (Release > PI > Sprint), the Releases tab shows the release's progress rolled up from all its PIs, PI by PI.
+- **Improved:** Capacity vs load works at PI Planning: before a sprint has finished it uses each squad's velocity from the last PI, and every cell shows the squad's capacity hours on hover.
+- **Improved:** The confidence vote is anonymous by default: everyone sees the counts, each person sees only their own vote. Project settings › Agilo settings › PI Planning can show names.
+- **Improved:** Objectives: planned business value and committed or uncommitted can be set right in the list during PI Planning; uncommitted objectives are shaded.
+
 ## 2.1.1: Prioritise and Portfolio hidden for now
 
 _2026-11-22_
