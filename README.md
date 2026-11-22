@@ -5,4 +5,5 @@ Support, privacy policy and license for **Agilo**, the Azure DevOps extension fo
 - [Support](SUPPORT.md): ask a question or report a problem in [Issues](https://github.com/eslam-sa3d/agilo-support/issues)
 - [Privacy policy](PRIVACY.md)
 - [License](LICENSE.md)
+- [Release notes](RELEASE_NOTES.md): new features and fixes in every version
 - [Marketplace listing](https://marketplace.visualstudio.com/items?itemName=SAFeADO.safe-ado)
