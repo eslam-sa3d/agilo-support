@@ -2,6 +2,13 @@
 
 New features, improvements and fixes in every version. The same notes are in Agilo: select **What's new** at the top of any Agilo page.
 
+## 2.0.6: Planning Poker fix
+
+_2026-11-22_
+
+- **Fixed:** Planning Poker opened as "saved as the final estimate" with no value before anyone voted.
+- **Improved:** Planning Poker no longer repeats its title inside the work item form group.
+
 ## 2.0.5: What's new page and per-project on/off fix
 
 _2026-11-22_
