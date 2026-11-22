@@ -2,6 +2,12 @@
 
 New features, improvements and fixes in every version. The same notes are in Agilo: select **What's new** at the top of any Agilo page.
 
+## 2.1.1: Prioritise and Portfolio hidden for now
+
+_2026-11-22_
+
+- **Improved:** The Prioritise (WSJF) and Portfolio tabs are hidden from Agilo Program while they are refined. WSJF scores already saved stay on the work items.
+
 ## 2.1.0: PI Planning, WSJF, flow metrics and a PI health check
 
 _2026-11-22_
