@@ -2,6 +2,13 @@
 
 New features, improvements and fixes in every version. The same notes are in Agilo: select **What's new** at the top of any Agilo page.
 
+## 2.0.10: White text on blue buttons, compact Poker cards
+
+_2026-11-22_
+
+- **Fixed:** Blue buttons (Reveal, Save Estimate, Save, Create) showed dark text; it is white again.
+- **Improved:** Planning Poker cards are smaller, with blue numbers, and fit on one line.
+
 ## 2.0.9: Faster, safer, ready for Server 2022.1
 
 _2026-11-22_
