@@ -2,6 +2,12 @@
 
 New features, improvements and fixes in every version. The same notes are in Agilo: select **What's new** at the top of any Agilo page.
 
+## 2.0.8: Field names everywhere
+
+_2026-11-22_
+
+- **Improved:** Messages and pickers show field names (Target Release, Story Points) instead of codes such as Custom.TargetRelease. Codes still show when you hover a field picker.
+
 ## 2.0.7: Cleaner capacity table
 
 _2026-11-22_
