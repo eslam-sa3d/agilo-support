@@ -2,6 +2,13 @@
 
 New features, improvements and fixes in every version. The same notes are in Agilo: select **What's new** at the top of any Agilo page.
 
+## 2.0.12: Traceability matrix
+
+_2026-11-22_
+
+- **New:** Traceability now has a matrix: start from epics, features or user stories and see each item with what it breaks down into, the test cases that cover it and the bugs linked to it.
+- **New:** Filter the matrix by PI and squad, show tasks, or show only rows with gaps such as a feature without stories, a story without a test, or a done item with open bugs.
+
 ## 2.0.11: Progress bars, chart tooltips and bug states to ignore
 
 _2026-11-22_
