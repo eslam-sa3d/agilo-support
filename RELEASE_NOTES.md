@@ -2,6 +2,18 @@
 
 New features, improvements and fixes in every version. The same notes are in Agilo: select **What's new** at the top of any Agilo page.
 
+## 2.0.9: Faster, safer, ready for Server 2022.1
+
+_2026-11-22_
+
+- **New:** Planning Poker shows each person's profile picture and name instead of "You".
+- **Improved:** Faster on large PIs: squad lookups are cached, the backlog, releases and dependency views no longer slow down with thousands of items, and Traceability is cached until you refresh.
+- **Improved:** Fewer calls to Azure DevOps: the work item link check waits for typing to settle, Planning Poker pauses while the browser tab is hidden, and the Analytics check uses a tiny query.
+- **Improved:** Azure DevOps Server 2022.1: a call refused at REST 7.0 because of its version is retried at 7.1, and an XML-process collection shows Configuration's explanation instead of an error.
+- **Improved:** Fewer permissions: Agilo no longer asks for Graph (read). An administrator approves the change once after updating.
+- **Fixed:** Traceability warns when a project has more than 20,000 items of a type, the most one Azure DevOps query returns.
+- **Fixed:** Shared settings are checked before use, so a malformed value can't break a query or the project on/off list.
+
 ## 2.0.8: Field names everywhere
 
 _2026-11-22_

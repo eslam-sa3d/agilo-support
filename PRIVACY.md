@@ -22,11 +22,13 @@ Agilo asks Azure DevOps for these permissions and uses them only for the feature
 
 | Permission | Used for |
 | --- | --- |
-| Work items (read and write) | Show and update backlog items, risks, objectives and estimates |
-| Work items and process (full) | Only when an administrator uses Configuration to create missing work item types and fields |
+| Work items (full) | Show and update backlog items, risks, objectives and estimates; create missing work item types and fields only when an administrator uses Configuration |
 | Project and team (read) | Read teams, members, sprints and capacity |
 | Analytics (read) | Burnup, velocity and cumulative flow charts |
-| Identity (read) | Show who changed settings and who is in a Planning Poker room |
+
+## Who can change Agilo's shared data
+
+Agilo settings, hierarchy rules, Planning Poker rooms and the per-project on/off list live in Azure DevOps extension data storage. Azure DevOps lets every user who can use the extension read and write that storage, so the administrator-only pages in Agilo are a convenience, not a security boundary. Agilo checks what it reads and never uses it to grant access to work items: every work item read or change runs with your own Azure DevOps permissions. Process changes from Configuration are allowed only for users Azure DevOps lets edit the process.
 
 ## Removing your data
 
