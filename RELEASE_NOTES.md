@@ -2,6 +2,16 @@
 
 New features, improvements and fixes in every version. The same notes are in Agilo: select **What's new** at the top of any Agilo page.
 
+## 2.2.4: Scope by type, velocity across sprints, Enhancements counted
+
+_2026-11-23_
+
+- **New:** Enhancements and other custom story types now count as stories. Agilo reads the types on your process's story backlog, and Agilo settings › Story types lets you add or remove them. They count in story points, burnups, velocity, stories done and capacity.
+- **New:** Scope by type on the Program dashboard: total, not closed, resolved and closed for epics, features, each story type and bugs in the PI. Every number opens its query.
+- **New:** Velocity for the last 9 sprints, across PIs: planned, completed, completed late and incomplete story points per sprint, with the average velocity.
+- **Improved:** The PI burnup shows remaining story points, % completed, average burnup per day and scope change, and can show one story type at a time, for example Enhancements only.
+- **Improved:** The PI review report has its own squad picker. It opens with the squads picked on the dashboard and covers only those squads.
+
 ## 2.2.3: Pick several squads on the dashboard
 
 _2026-11-22_
