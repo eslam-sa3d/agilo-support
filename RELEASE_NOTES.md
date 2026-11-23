@@ -2,6 +2,13 @@
 
 New features, improvements and fixes in every version. The same notes are in Agilo: select **What's new** at the top of any Agilo page.
 
+## 2.2.5: Large queries open on Azure DevOps Server
+
+_2026-11-23_
+
+- **Fixed:** Opening a long list of items as a query no longer shows "404 - File or directory not found" on Azure DevOps Server. A long list is saved to My Queries › Agilo results and opens from there, with up to 4,000 items.
+- **Fixed:** Burnup, cumulative flow and velocity no longer fail on Azure DevOps Server when many squads or sprints are picked. Agilo splits the request into shorter ones.
+
 ## 2.2.4: Scope by type, velocity across sprints, Enhancements counted
 
 _2026-11-23_
