@@ -2,6 +2,12 @@
 
 New features, improvements and fixes in every version. The same notes are in Agilo: select **What's new** at the top of any Agilo page.
 
+## 2.2.6: Tidier Program dashboard
+
+_2026-11-23_
+
+- **Improved:** Program dashboard cards line up in full rows with no empty space: burnup beside stories committed vs done, blocked beside dependencies, risks beside cumulative flow. Cards in a row are the same height. If you hide or move a card, the others widen to fill the row.
+
 ## 2.2.5: Large queries open on Azure DevOps Server
 
 _2026-11-23_
