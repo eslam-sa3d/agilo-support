@@ -2,6 +2,16 @@
 
 New features, improvements and fixes in every version. The same notes are in Agilo: select **What's new** at the top of any Agilo page.
 
+## 2.4.0: Tracking page and a richer Release view
+
+_2026-11-25_
+
+- **New:** Agilo Program › Tracking: for each work item type you choose, how many there are and how many are closed, with new, active, resolved and closed counts, closed over time, created vs closed this week, and closed by squad. Scope is a PI, a release or all PIs; count items or story points; export to CSV.
+- **New:** A Types picker on Tracking and Releases chooses which work item types are in the statistics, and their order. It is saved once for everyone in the project and shows who changed it last.
+- **New:** Releases: a forecast finish date at the recent pace, a release burnup across every PI, a go/no-go readiness panel (critical and high bugs, test pass rate, late dependencies, risks ROAMed, blocked work, sized features), scope by type and progress by squad.
+- **Improved:** Releases: a squad picker, and a features table you can group by epic, PI or squad, filter (needs action, not started, in progress, done), search, sort and export to CSV. Each feature says why it needs action.
+- **New:** Agilo settings › Release readiness: set how many critical or high bugs and late dependencies a release may have, the lowest test pass rate, and whether risks must be ROAMed and features sized.
+
 ## 2.3.0: Choose what counts as an epic, feature, story or bug
 
 _2026-11-25_
