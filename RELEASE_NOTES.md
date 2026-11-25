@@ -2,6 +2,13 @@
 
 New features, improvements and fixes in every version. The same notes are in Agilo: select **What's new** at the top of any Agilo page.
 
+## 2.4.1: Saving settings works every time
+
+_2026-11-25_
+
+- **Fixed:** Saving Agilo settings, the Tracking types or Hierarchy rules no longer fails with "The document version does not match". Agilo saves onto the latest version and changes only what you edited, so two people saving different settings don't overwrite each other.
+- **Fixed:** Your dashboard layout (Customise) is kept after the first change, and ending or restarting a Planning Poker session no longer fails.
+
 ## 2.4.0: Tracking page and a richer Release view
 
 _2026-11-25_
