@@ -2,6 +2,12 @@
 
 New features, improvements and fixes in every version. The same notes are in Agilo: select **What's new** at the top of any Agilo page.
 
+## 2.4.2: Every work item type in Hierarchy rules
+
+_2026-11-25_
+
+- **Improved:** Traceability rules (Allowed children) now list every work item type in the project, such as Enhancement, Test Plan or your own custom types, as both parent rows and child columns. The usual hierarchy comes first, then the rest by name.
+
 ## 2.4.1: Saving settings works every time
 
 _2026-11-25_
