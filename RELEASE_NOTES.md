@@ -2,6 +2,14 @@
 
 New features, improvements and fixes in every version. The same notes are in Agilo: select **What's new** at the top of any Agilo page.
 
+## 2.3.0: Choose what counts as an epic, feature, story or bug
+
+_2026-11-25_
+
+- **New:** Agilo settings › Work item types: choose, for each work item type, whether Agilo counts it as an epic, a feature, a story or a bug, or not at all. For example, count Enhancement as a story, Defect as a bug or Capability as a feature. Every screen, chart, count and query follows it.
+- **Improved:** Bug statistics list the states of every bug type, and Planning Poker offers every story, bug, feature and epic type.
+- **Improved:** The story types you chose in 2.2.4 carry over.
+
 ## 2.2.6: Tidier Program dashboard
 
 _2026-11-23_
