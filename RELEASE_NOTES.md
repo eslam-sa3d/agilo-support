@@ -2,6 +2,12 @@
 
 New features, improvements and fixes in every version. The same notes are in Agilo: select **What's new** at the top of any Agilo page.
 
+## 2.4.3: Easier-to-read tables
+
+_2026-11-26_
+
+- **Improved:** Numbers in Tracking, Releases and other tables now sit in the middle of their column, under a centred header, all at the same size. Table text and row labels are larger, and chart axis labels are easier to read.
+
 ## 2.4.2: Every work item type in Hierarchy rules
 
 _2026-11-25_
