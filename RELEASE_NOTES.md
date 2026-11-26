@@ -2,6 +2,14 @@
 
 New features, improvements and fixes in every version. The same notes are in Agilo: select **What's new** at the top of any Agilo page.
 
+## 2.4.6: Traceability: choose the types, see why
+
+_2026-11-26_
+
+- **New:** Traceability: a Types picker chooses which work item types the page scores and in what order, saved once for everyone in the project. It offers every type your Traceability rules check, so it follows the rules as they change. Test coverage follows the feature, story and bug types you choose.
+- **Improved:** Each type now says why items are untraceable: without a parent, under a parent type the rules don't allow (for example a Task under an Issue), or with a parent Agilo can't read. Each is a link to those items.
+- **Fixed:** Tasks and other items that have a parent no longer show as untraceable when the project has many work items. Agilo now queries each type on its own and reads any parent it is missing, of any type.
+
 ## 2.4.5: Sprints on the release burnup, and ART velocity
 
 _2026-11-26_
