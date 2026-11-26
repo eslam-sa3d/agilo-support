@@ -2,6 +2,20 @@
 
 New features, improvements and fixes in every version. The same notes are in Agilo: select **What's new** at the top of any Agilo page.
 
+## 2.4.5: Sprints on the release burnup, and ART velocity
+
+_2026-11-26_
+
+- **Improved:** The release burnup now marks every sprint, like the PI burnup: a strong line and the PI name where each PI starts, and a lighter line at each sprint. Hovering a day shows its PI and sprint.
+- **New:** Releases: ART velocity for every sprint of the release so far, with planned, completed, completed late and incomplete story points and the average per sprint. It follows the squad picker.
+
+## 2.4.4: Bugs under Enhancements are traceable
+
+_2026-11-26_
+
+- **Fixed:** Bugs and tasks under an Enhancement (or any type you put beside User Story in Work item types) now count as traceable, and so does an Enhancement under a Feature, on the Traceability page and on the work item form.
+- **New:** Traceability rules has a Same-level types option, on by default: a type with no rules of its own follows its level's rules, and the page lists which type follows which. Borrowed ticks show lighter in Allowed children; change one to give that type rules of its own, or switch the option off. Changes are recorded in the history and can be reverted.
+
 ## 2.4.3: Easier-to-read tables
 
 _2026-11-26_
